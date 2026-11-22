@@ -6,7 +6,7 @@ Floods are one of the most devastating natural disasters. This project uses Mach
 
 ## Features
 
-- Flood Risk Prediction
+- Risk Prediction
 - Machine Learning Based Analysis
 - Random Forest Classification Model
 - Flask Web Application
